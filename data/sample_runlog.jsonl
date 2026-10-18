@@ -1,0 +1,8 @@
+{"kind": "decision", "id": "D1", "text": "Pakai Tailwind untuk semua landing page baru", "by": "chief-of-staff", "replaces": null}
+{"kind": "decision", "id": "D2", "text": "Ganti ke design system internal untuk landing page", "by": "chief-of-staff", "replaces": "D1"}
+{"kind": "decision", "id": "D3", "text": "Semua API baru wajib dokumentasi OpenAPI", "by": "backend-architect", "replaces": null}
+{"kind": "decision", "id": "D4", "text": "Harga di voice-over harus cocok dengan listing affiliate", "by": "chief-of-staff", "replaces": null}
+{"kind": "task", "id": "T1", "title": "Landing page kantin sekolah", "owner": "frontend-dev"}
+{"kind": "task", "id": "T2", "title": "Video affiliate syal polkadot", "owner": "video-director"}
+{"kind": "receipt", "id": "R1", "task": "T1", "verdict": "APPROVED", "by": "quality-auditor"}
+{"kind": "receipt", "id": "R2", "task": "T2", "verdict": "REJECTED", "by": "quality-auditor"}
